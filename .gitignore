@@ -1,0 +1,11 @@
+# Never publish source or build output
+src/
+target/
+*.java
+*.class
+*.jar
+pom.xml
+.idea/
+*.iml
+.vscode/
+*.log
